@@ -11,5 +11,6 @@ int main(void)
 	{
 		printf("Pulse Width is: %d\r\n", data);
 		delay_ms(1500);
+		delay_ms(1000);
 	}	
 }
