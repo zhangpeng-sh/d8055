@@ -1,0 +1,19 @@
+Dependencies for Project 'min', Target 'Target 1': (DO NOT MODIFY !)
+F (..\src\main.c)(0x5F10BC82)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\sys-I C:\Users\Administrator\Desktop\counter\prj\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\sys\sys.h)(0x5F109DE0)
+I (..\sys\stm32f10x.h)(0x5F0C63FE)
+I (..\sys\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+F (..\src\timer.c)(0x5F10BB80)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\sys-I C:\Users\Administrator\Desktop\counter\prj\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (..\sys\sys.h)(0x5F109DE0)
+I (..\sys\stm32f10x.h)(0x5F0C63FE)
+I (..\sys\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5475F300)
+F (..\sys\startup_stm32f10x_hd.s)(0x5F109D5C)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Users\Administrator\Desktop\counter\prj\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d)
+F (..\sys\sys.c)(0x5F10B4B5)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\sys-I C:\Users\Administrator\Desktop\counter\prj\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\sys\sys.h)(0x5F109DE0)
+I (..\sys\stm32f10x.h)(0x5F0C63FE)
+I (..\sys\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)

@@ -1,0 +1,9 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\timer.o"
+".\objects\startup_stm32f10x_hd.o"
+".\objects\sys.o"
+--strict --scatter ".\Objects\min.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\min.map" -o .\Objects\min.axf
